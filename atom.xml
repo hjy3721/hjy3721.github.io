@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-12-17T12:55:44.496Z</updated>
+  <updated>2016-12-17T13:09:51.567Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,18 +20,15 @@
     <link href="http://yoursite.com/2016/12/17/%E5%B9%B4%E6%9C%AB%E4%B9%B0%E4%B9%B0%E4%B9%B0/"/>
     <id>http://yoursite.com/2016/12/17/年末买买买/</id>
     <published>2016-12-17T12:55:44.434Z</published>
-    <updated>2016-12-17T12:55:44.496Z</updated>
+    <updated>2016-12-17T13:09:51.567Z</updated>
     
-    <content type="html"><![CDATA[<p>今天去新宿排队抽选SONY VR了，排了三个队，结果都没有抽到，好生气啊(╯▔皿▔)╯</p>
-<p>最近iD和Apple pay的活动真的好给力啊，蹭了好多好处了，这里给两家公司点个赞。</p>
+    <content type="html"><![CDATA[<p>今天去新宿排队抽选SONY VR了，排了三个队，结果都没有抽到，好生气啊(╯▔皿▔)╯<br><a id="more"></a><br>最近iD和Apple pay的活动真的好给力啊，蹭了好多好处了，这里给两家公司点个赞。</p>
 <p>在学习时间记账，完成了之后再学习时间规划。人生短暂，只争朝夕。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;今天去新宿排队抽选SONY VR了，排了三个队，结果都没有抽到，好生气啊(╯▔皿▔)╯&lt;/p&gt;
-&lt;p&gt;最近iD和Apple pay的活动真的好给力啊，蹭了好多好处了，这里给两家公司点个赞。&lt;/p&gt;
-&lt;p&gt;在学习时间记账，完成了之后再学习时间规划。人生短暂，只争朝夕。&lt;/p&gt;
+      &lt;p&gt;今天去新宿排队抽选SONY VR了，排了三个队，结果都没有抽到，好生气啊(╯▔皿▔)╯&lt;br&gt;
     
     </summary>
     
@@ -43,9 +40,9 @@
     <link href="http://yoursite.com/2016/12/16/%E7%BB%88%E4%BA%8E%E5%86%99%E5%87%BA%E4%BA%86%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://yoursite.com/2016/12/16/终于写出了第一篇文章/</id>
     <published>2016-12-16T13:02:14.965Z</published>
-    <updated>2016-12-16T13:44:59.312Z</updated>
+    <updated>2016-12-17T13:10:02.527Z</updated>
     
-    <content type="html"><![CDATA[<p>尝试着用了Markdown来写文章，感觉还不错。之前有点排斥，因为觉得里面有好多类似于计算机语言的语法在。现在好像也不会这么觉得了，比较不再和代码块打交道了。</p>
+    <content type="html"><![CDATA[<p>尝试着用了Markdown来写文章，感觉还不错。之前有点排斥，因为觉得里面有好多类似于计算机语言的语法在。现在好像也不会这么觉得了，比较不再和代码块打交道了。<br><a id="more"></a></p>
 <hr>
 <h2 id="公司"><a href="#公司" class="headerlink" title="公司"></a>公司</h2><p>建了公司以后觉得生活变得不一样了，说不清是好还是不好。不过确实感觉自己应该建个公司来锻炼自己啊。</p>
 <hr>
@@ -55,9 +52,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;尝试着用了Markdown来写文章，感觉还不错。之前有点排斥，因为觉得里面有好多类似于计算机语言的语法在。现在好像也不会这么觉得了，比较不再和代码块打交道了。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;公司&quot;&gt;&lt;a href=&quot;#公司&quot; class=&quot;headerlink&quot; tit
+      &lt;p&gt;尝试着用了Markdown来写文章，感觉还不错。之前有点排斥，因为觉得里面有好多类似于计算机语言的语法在。现在好像也不会这么觉得了，比较不再和代码块打交道了。&lt;br&gt;
     
     </summary>
     
